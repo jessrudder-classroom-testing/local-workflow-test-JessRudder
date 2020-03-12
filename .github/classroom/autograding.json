@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "new test",
+      "name": "cat and dog test",
       "setup": "",
       "run": "run",
       "input": "dog",
